@@ -2,7 +2,7 @@
 # QUI SUIS-JE ?
 
 ### 🎨🖥️ Passionnée d'Art Visuel et de Code Créatif 🎨🖥️
-Je suis `un caméléon au service d’une passion`, un esprit passionné qui fusionne l'art visuel et la technologie pour donner vie à des expériences numériques captivantes. Avec une palette de compétences allant du **graphisme** à l'**infographie**, du **design web** au **développement**, je crée des mondes visuels uniques et fonctionnels.
+Je suis `un caméléon au service d’une passion`, un esprit passionné qui fusionne l'art visuel et la technologie pour donner vie à des expériences numériques captivantes. Avec une palette de compétences allant du **graphisme** à l'**infographie**, du **design web** au **développement web**, je crée des mondes visuels uniques et fonctionnels.
 
 
 ## 🎨 Graphiste / Infographiste
@@ -10,12 +10,12 @@ Mon amour pour l'esthétique et la conception graphique alimente ma quête de cr
 
 ![Static Badge](https://img.shields.io/badge/Adobe-Creative-red) ![Static Badge](https://img.shields.io/badge/Affinity-Designer-blue)
 
-## 🌐 Webdesigneuse Innovant
+## 🌐 Webdesigneuse Innovante
 Transformer des idées en interfaces interactives est ma spécialité. Je m'efforce de concevoir des designs web qui ne sont pas seulement beaux, mais aussi **intuitifs** et **conviviaux**. Mon objectif est de guider les utilisateurs à travers une **expérience en ligne fluide et engageante**.
 
 ![Static Badge](https://img.shields.io/badge/Adobe-XD-pink) ![Static Badge](https://img.shields.io/badge/Application-Figma-green)
 
-## 💻 Développeuse Web Créatif
+## 💻 Développeuse Web Créative
 Passer du concept au code est mon super-pouvoir. En utilisant un équilibre parfait entre **HTML**, **CSS** et **JavaScript**, je transforme des maquettes en sites web responsives et performants. Mon attention aux détails garantit que chaque élément graphique soit aligné avec la fonctionnalité.
 Je suis également à l'aise avec le développement backend en utilisant des frameworks tels que **Symfony** pour créer des bases solides et des fonctionnalités dynamiques. De plus, j'exploite la puissance de **React** pour donner vie à des interfaces réactives et interactives, offrant ainsi une expérience utilisateur exceptionnelle.
 
